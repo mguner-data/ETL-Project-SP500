@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#ignore specific files
+all_stocks_5yr.csv
+
 # C extensions
 *.so
 
