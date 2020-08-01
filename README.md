@@ -1,5 +1,5 @@
 # ETL-Project-SP500  
-Read Project_ETL for description of extract/transform/load process we followed.
+Read Project_ETL.docx for description of extract/transform/load process we followed.
 
 Contains links to Google Drive for the csv API extracts that were too large for Github.
 
