@@ -1,3 +1,9 @@
+-- Drop tables if necessary
+DROP TABLE IF EXISTS Ticker_Security;
+DROP TABLE IF EXISTS Index_Event;
+DROP TABLE IF EXISTS Daily_Data;
+
+-- Create tables
 create table Ticker_Security (
 	ticker text primary key,
 	Security_Name text,
@@ -16,9 +22,8 @@ create table Index_Event(
 	references Ticker_Security(ticker)
 );
 
-
 create table Daily_Data(
-	Index int primary key,
+	Index SERIAL primary key,
 	Ticker text,
 	date_close date,
 	Open float,
@@ -30,4 +35,9 @@ create table Daily_Data(
 	references Ticker_Security(ticker)
 );
 
+--Search Data
+select * from Ticker_Security;
+select * from Index_Event;
+select * from Daily_Data;
 
+select * from Daily_Data where ticker = 'GGP';
