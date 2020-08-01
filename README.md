@@ -1,4 +1,11 @@
 # ETL-Project-SP500  
+Read Project_ETL for description of extract/transform/load process we followed.
+
+Contains links to Google Drive for the csv API extracts that were too large for Github.
+
+Also contains instructions for replicating the SQL database locally.
+
+# File list
 Alpha_Vantage_API.ipynb - connects to Alpha Vantage API to pull stock data used to populate Alpha_Vantage_Export.csv  
 Alpha_Vantage_Export.csv - Alpha Vantage API stock export. One of the data sources that can be used to populate daily_data in Stock_DB  
 Brodie_ETL.ipynb - loads all_stock_5yr.csv in to daily_data in Stock_DB. all_stock_5yr.csv was our initial historical dataset that was found on Kaggle  
