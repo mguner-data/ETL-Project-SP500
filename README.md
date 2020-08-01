@@ -6,6 +6,7 @@ Chart_Example.ipynb - connects to Stock_DB and charts 2 example stocks from dail
 ERD.PNG - Stock_DB Entity Relationship Diagram  
 ETL_M.ipynb - loads SP500_from18_to20.csv in to daily_data in Stock_DB  
 ETL_R.ipynb -loads Alpha_Vantage_Export.csv in to daily_data in Stock_DB  
+ETL_R_Extra.ipynb -loads Alpha_Vantage_Export_Extra_Tickers.csv in to daily_data in Stock_DB  
 ETL_Ticker_Security.ipynb -loads ticker_security.csv in to ticker_security table in Stock_DB  
 Index_Event.csv - csv of historical events of stock additions and subtractions  
 Index_Event_ETL.ipynb - loads Index_Event.csv in to index_event table in Stock_DB  
