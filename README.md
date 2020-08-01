@@ -9,6 +9,7 @@ ETL_R.ipynb -loads Alpha_Vantage_Export.csv in to daily_data in Stock_DB
 ETL_Ticker_Security.ipynb -loads ticker_security.csv in to ticker_security table in Stock_DB  
 Index_Event.csv - csv of historical events of stock additions and subtractions  
 Index_Event_ETL.ipynb - loads Index_Event.csv in to index_event table in Stock_DB  
+Project_ETL.docx - Our ETL report document  
 README.md  
 SP500_from18_to20.csv - Yahoo Finance  pull extract csv  
 SP500_list.ipynb - connects to Stock_DB and pulls the SP500 stocks from ticker_security table  
