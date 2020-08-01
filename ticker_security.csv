@@ -1,0 +1,506 @@
+ticker,security_name,sp500,djia30
+MMM,3M Company,TRUE,TRUE
+ABT,Abbott Laboratories,TRUE,FALSE
+ABBV,AbbVie Inc.,TRUE,FALSE
+ABMD,ABIOMED Inc,TRUE,FALSE
+ACN,Accenture plc,TRUE,FALSE
+ATVI,Activision Blizzard,TRUE,FALSE
+ADBE,Adobe Inc.,TRUE,FALSE
+AMD,Advanced Micro Devices Inc,TRUE,FALSE
+AAP,Advance Auto Parts,TRUE,FALSE
+AES,AES Corp,TRUE,FALSE
+AFL,AFLAC Inc,TRUE,FALSE
+A,Agilent Technologies Inc,TRUE,FALSE
+APD,Air Products & Chemicals Inc,TRUE,FALSE
+AKAM,Akamai Technologies Inc,TRUE,FALSE
+ALK,Alaska Air Group Inc,TRUE,FALSE
+ALB,Albemarle Corp,TRUE,FALSE
+ARE,Alexandria Real Estate Equities,TRUE,FALSE
+ALXN,Alexion Pharmaceuticals,TRUE,FALSE
+ALGN,Align Technology,TRUE,FALSE
+ALLE,Allegion,TRUE,FALSE
+LNT,Alliant Energy Corp,TRUE,FALSE
+ALL,Allstate Corp,TRUE,FALSE
+GOOGL,Alphabet Inc. (Class A),TRUE,FALSE
+GOOG,Alphabet Inc. (Class C),TRUE,FALSE
+MO,Altria Group Inc,TRUE,FALSE
+AMZN,Amazon.com Inc.,TRUE,FALSE
+AMCR,Amcor plc,TRUE,FALSE
+AEE,Ameren Corp,TRUE,FALSE
+AAL,American Airlines Group,TRUE,FALSE
+AEP,American Electric Power,TRUE,FALSE
+AXP,American Express Co,TRUE,TRUE
+AIG,American International Group,TRUE,FALSE
+AMT,American Tower Corp.,TRUE,FALSE
+AWK,American Water Works Company Inc,TRUE,FALSE
+AMP,Ameriprise Financial,TRUE,FALSE
+ABC,AmerisourceBergen Corp,TRUE,FALSE
+AME,AMETEK Inc.,TRUE,FALSE
+AMGN,Amgen Inc.,TRUE,FALSE
+APH,Amphenol Corp,TRUE,FALSE
+ADI,"Analog Devices, Inc.",TRUE,FALSE
+ANSS,ANSYS,TRUE,FALSE
+ANTM,Anthem,TRUE,FALSE
+AON,Aon plc,TRUE,FALSE
+AOS,A.O. Smith Corp,TRUE,FALSE
+APA,Apache Corporation,TRUE,FALSE
+AIV,Apartment Investment & Management,TRUE,FALSE
+AAPL,Apple Inc.,TRUE,TRUE
+AMAT,Applied Materials Inc.,TRUE,FALSE
+APTV,Aptiv PLC,TRUE,FALSE
+ADM,Archer-Daniels-Midland Co,TRUE,FALSE
+ANET,Arista Networks,TRUE,FALSE
+AJG,Arthur J. Gallagher & Co.,TRUE,FALSE
+AIZ,Assurant,TRUE,FALSE
+T,AT&T Inc.,TRUE,FALSE
+ATO,Atmos Energy,TRUE,FALSE
+ADSK,Autodesk Inc.,TRUE,FALSE
+ADP,Automatic Data Processing,TRUE,FALSE
+AZO,AutoZone Inc,TRUE,FALSE
+AVB,AvalonBay Communities,TRUE,FALSE
+AVY,Avery Dennison Corp,TRUE,FALSE
+BKR,Baker Hughes Co,TRUE,FALSE
+BLL,Ball Corp,TRUE,FALSE
+BAC,Bank of America Corp,TRUE,FALSE
+BK,The Bank of New York Mellon,TRUE,FALSE
+BAX,Baxter International Inc.,TRUE,FALSE
+BDX,Becton Dickinson,TRUE,FALSE
+BRK.B,Berkshire Hathaway,TRUE,FALSE
+BBY,Best Buy Co. Inc.,TRUE,FALSE
+BIO,Bio-Rad Laboratories,TRUE,FALSE
+BIIB,Biogen Inc.,TRUE,FALSE
+BLK,BlackRock,TRUE,FALSE
+BA,Boeing Company,TRUE,TRUE
+BKNG,Booking Holdings Inc,TRUE,FALSE
+BWA,BorgWarner,TRUE,FALSE
+BXP,Boston Properties,TRUE,FALSE
+BSX,Boston Scientific,TRUE,FALSE
+BMY,Bristol-Myers Squibb,TRUE,FALSE
+AVGO,Broadcom Inc.,TRUE,FALSE
+BR,Broadridge Financial Solutions,TRUE,FALSE
+BF.B,Brown-Forman Corp.,TRUE,FALSE
+CHRW,C. H. Robinson Worldwide,TRUE,FALSE
+COG,Cabot Oil & Gas,TRUE,FALSE
+CDNS,Cadence Design Systems,TRUE,FALSE
+CPB,Campbell Soup,TRUE,FALSE
+COF,Capital One Financial,TRUE,FALSE
+CAH,Cardinal Health Inc.,TRUE,FALSE
+KMX,Carmax Inc,TRUE,FALSE
+CCL,Carnival Corp.,TRUE,FALSE
+CARR,Carrier Global,TRUE,FALSE
+CAT,Caterpillar Inc.,TRUE,TRUE
+CBOE,Cboe Global Markets,TRUE,FALSE
+CBRE,CBRE Group,TRUE,FALSE
+CDW,CDW,TRUE,FALSE
+CE,Celanese,TRUE,FALSE
+CNC,Centene Corporation,TRUE,FALSE
+CNP,CenterPoint Energy,TRUE,FALSE
+CTL,CenturyLink Inc,TRUE,FALSE
+CERN,Cerner,TRUE,FALSE
+CF,CF Industries Holdings Inc,TRUE,FALSE
+SCHW,Charles Schwab Corporation,TRUE,FALSE
+CHTR,Charter Communications,TRUE,FALSE
+CVX,Chevron Corp.,TRUE,TRUE
+CMG,Chipotle Mexican Grill,TRUE,FALSE
+CB,Chubb Limited,TRUE,FALSE
+CHD,Church & Dwight,TRUE,FALSE
+CI,CIGNA Corp.,TRUE,FALSE
+CINF,Cincinnati Financial,TRUE,FALSE
+CTAS,Cintas Corporation,TRUE,FALSE
+CSCO,Cisco Systems,TRUE,TRUE
+C,Citigroup Inc.,TRUE,FALSE
+CFG,Citizens Financial Group,TRUE,FALSE
+CTXS,Citrix Systems,TRUE,FALSE
+CLX,The Clorox Company,TRUE,FALSE
+CME,CME Group Inc.,TRUE,FALSE
+CMS,CMS Energy,TRUE,FALSE
+KO,Coca-Cola Company,TRUE,TRUE
+CTSH,Cognizant Technology Solutions,TRUE,FALSE
+CL,Colgate-Palmolive,TRUE,FALSE
+CMCSA,Comcast Corp.,TRUE,FALSE
+CMA,Comerica Inc.,TRUE,FALSE
+CAG,Conagra Brands,TRUE,FALSE
+CXO,Concho Resources,TRUE,FALSE
+COP,ConocoPhillips,TRUE,FALSE
+ED,Consolidated Edison,TRUE,FALSE
+STZ,Constellation Brands,TRUE,FALSE
+COO,The Cooper Companies,TRUE,FALSE
+CPRT,Copart Inc,TRUE,FALSE
+GLW,Corning Inc.,TRUE,FALSE
+CTVA,Corteva,TRUE,FALSE
+COST,Costco Wholesale Corp.,TRUE,FALSE
+COTY,"Coty, Inc",TRUE,FALSE
+CCI,Crown Castle International Corp.,TRUE,FALSE
+CSX,CSX Corp.,TRUE,FALSE
+CMI,Cummins Inc.,TRUE,FALSE
+CVS,CVS Health,TRUE,FALSE
+DHI,D. R. Horton,TRUE,FALSE
+DHR,Danaher Corp.,TRUE,FALSE
+DRI,Darden Restaurants,TRUE,FALSE
+DVA,DaVita Inc.,TRUE,FALSE
+DE,Deere & Co.,TRUE,FALSE
+DAL,Delta Air Lines Inc.,TRUE,FALSE
+XRAY,Dentsply Sirona,TRUE,FALSE
+DVN,Devon Energy,TRUE,FALSE
+DXCM,DexCom,TRUE,FALSE
+FANG,Diamondback Energy,TRUE,FALSE
+DLR,Digital Realty Trust Inc,TRUE,FALSE
+DFS,Discover Financial Services,TRUE,FALSE
+DISCA,"Discovery, Inc. (Class A)",TRUE,FALSE
+DISCK,"Discovery, Inc. (Class C)",TRUE,FALSE
+DISH,Dish Network,TRUE,FALSE
+DG,Dollar General,TRUE,FALSE
+DLTR,Dollar Tree,TRUE,FALSE
+D,Dominion Energy,TRUE,FALSE
+DPZ,Domino's Pizza,TRUE,FALSE
+DOV,Dover Corporation,TRUE,FALSE
+DOW,Dow Inc.,TRUE,TRUE
+DTE,DTE Energy Co.,TRUE,FALSE
+DUK,Duke Energy,TRUE,FALSE
+DRE,Duke Realty Corp,TRUE,FALSE
+DD,DuPont de Nemours Inc,TRUE,FALSE
+DXC,DXC Technology,TRUE,FALSE
+ETFC,E*Trade,TRUE,FALSE
+EMN,Eastman Chemical,TRUE,FALSE
+ETN,Eaton Corporation,TRUE,FALSE
+EBAY,eBay Inc.,TRUE,FALSE
+ECL,Ecolab Inc.,TRUE,FALSE
+EIX,Edison Int'l,TRUE,FALSE
+EW,Edwards Lifesciences,TRUE,FALSE
+EA,Electronic Arts,TRUE,FALSE
+EMR,Emerson Electric Company,TRUE,FALSE
+ETR,Entergy Corp.,TRUE,FALSE
+EOG,EOG Resources,TRUE,FALSE
+EFX,Equifax Inc.,TRUE,FALSE
+EQIX,Equinix,TRUE,FALSE
+EQR,Equity Residential,TRUE,FALSE
+ESS,"Essex Property Trust, Inc.",TRUE,FALSE
+EL,Estée Lauder Companies,TRUE,FALSE
+EVRG,Evergy,TRUE,FALSE
+ES,Eversource Energy,TRUE,FALSE
+RE,Everest Re Group Ltd.,TRUE,FALSE
+EXC,Exelon Corp.,TRUE,FALSE
+EXPE,Expedia Group,TRUE,FALSE
+EXPD,Expeditors,TRUE,FALSE
+EXR,Extra Space Storage,TRUE,FALSE
+XOM,Exxon Mobil Corp.,TRUE,TRUE
+FFIV,F5 Networks,TRUE,FALSE
+FB,"Facebook, Inc.",TRUE,FALSE
+FAST,Fastenal Co,TRUE,FALSE
+FRT,Federal Realty Investment Trust,TRUE,FALSE
+FDX,FedEx Corporation,TRUE,FALSE
+FIS,Fidelity National Information Services,TRUE,FALSE
+FITB,Fifth Third Bancorp,TRUE,FALSE
+FE,FirstEnergy Corp,TRUE,FALSE
+FRC,First Republic Bank,TRUE,FALSE
+FISV,Fiserv Inc,TRUE,FALSE
+FLT,FleetCor Technologies Inc,TRUE,FALSE
+FLIR,FLIR Systems,TRUE,FALSE
+FLS,Flowserve Corporation,TRUE,FALSE
+FMC,FMC Corporation,TRUE,FALSE
+F,Ford Motor Company,TRUE,FALSE
+FTNT,Fortinet,TRUE,FALSE
+FTV,Fortive Corp,TRUE,FALSE
+FBHS,Fortune Brands Home & Security,TRUE,FALSE
+FOXA,Fox Corporation (Class A),TRUE,FALSE
+FOX,Fox Corporation (Class B),TRUE,FALSE
+BEN,Franklin Resources,TRUE,FALSE
+FCX,Freeport-McMoRan Inc.,TRUE,FALSE
+GPS,Gap Inc.,TRUE,FALSE
+GRMN,Garmin Ltd.,TRUE,FALSE
+IT,Gartner Inc,TRUE,FALSE
+GD,General Dynamics,TRUE,FALSE
+GE,General Electric,TRUE,FALSE
+GIS,General Mills,TRUE,FALSE
+GM,General Motors,TRUE,FALSE
+GPC,Genuine Parts,TRUE,FALSE
+GILD,Gilead Sciences,TRUE,FALSE
+GL,Globe Life Inc.,TRUE,FALSE
+GPN,Global Payments Inc.,TRUE,FALSE
+GS,Goldman Sachs Group,TRUE,TRUE
+GWW,Grainger (W.W.) Inc.,TRUE,FALSE
+HRB,H&R Block,TRUE,FALSE
+HAL,Halliburton Co.,TRUE,FALSE
+HBI,Hanesbrands Inc,TRUE,FALSE
+HIG,Hartford Financial Svc.Gp.,TRUE,FALSE
+HAS,Hasbro Inc.,TRUE,FALSE
+HCA,HCA Healthcare,TRUE,FALSE
+PEAK,Healthpeak Properties,TRUE,FALSE
+HSIC,Henry Schein,TRUE,FALSE
+HSY,The Hershey Company,TRUE,FALSE
+HES,Hess Corporation,TRUE,FALSE
+HPE,Hewlett Packard Enterprise,TRUE,FALSE
+HLT,Hilton Worldwide Holdings Inc,TRUE,FALSE
+HFC,HollyFrontier Corp,TRUE,FALSE
+HOLX,Hologic,TRUE,FALSE
+HD,Home Depot,TRUE,TRUE
+HON,Honeywell Int'l Inc.,TRUE,FALSE
+HRL,Hormel Foods Corp.,TRUE,FALSE
+HST,Host Hotels & Resorts,TRUE,FALSE
+HWM,Howmet Aerospace,TRUE,FALSE
+HPQ,HP Inc.,TRUE,FALSE
+HUM,Humana Inc.,TRUE,FALSE
+HBAN,Huntington Bancshares,TRUE,FALSE
+HII,Huntington Ingalls Industries,TRUE,FALSE
+IEX,IDEX Corporation,TRUE,FALSE
+IDXX,IDEXX Laboratories,TRUE,FALSE
+INFO,IHS Markit Ltd.,TRUE,FALSE
+ITW,Illinois Tool Works,TRUE,FALSE
+ILMN,Illumina Inc,TRUE,FALSE
+INCY,Incyte,TRUE,FALSE
+IR,Ingersoll Rand,TRUE,FALSE
+INTC,Intel Corp.,TRUE,TRUE
+ICE,Intercontinental Exchange,TRUE,FALSE
+IBM,International Business Machines,TRUE,TRUE
+IP,International Paper,TRUE,FALSE
+IPG,Interpublic Group,TRUE,FALSE
+IFF,International Flavors & Fragrances,TRUE,FALSE
+INTU,Intuit Inc.,TRUE,FALSE
+ISRG,Intuitive Surgical Inc.,TRUE,FALSE
+IVZ,Invesco Ltd.,TRUE,FALSE
+IPGP,IPG Photonics Corp.,TRUE,FALSE
+IQV,IQVIA Holdings Inc.,TRUE,FALSE
+IRM,Iron Mountain Incorporated,TRUE,FALSE
+JKHY,Jack Henry & Associates,TRUE,FALSE
+J,Jacobs Engineering Group,TRUE,FALSE
+JBHT,J. B. Hunt Transport Services,TRUE,FALSE
+SJM,JM Smucker,TRUE,FALSE
+JNJ,Johnson & Johnson,TRUE,TRUE
+JCI,Johnson Controls International,TRUE,FALSE
+JPM,JPMorgan Chase & Co.,TRUE,TRUE
+JNPR,Juniper Networks,TRUE,FALSE
+KSU,Kansas City Southern,TRUE,FALSE
+K,Kellogg Co.,TRUE,FALSE
+KEY,KeyCorp,TRUE,FALSE
+KEYS,Keysight Technologies,TRUE,FALSE
+KMB,Kimberly-Clark,TRUE,FALSE
+KIM,Kimco Realty,TRUE,FALSE
+KMI,Kinder Morgan,TRUE,FALSE
+KLAC,KLA Corporation,TRUE,FALSE
+KSS,Kohl's Corp.,TRUE,FALSE
+KHC,Kraft Heinz Co,TRUE,FALSE
+KR,Kroger Co.,TRUE,FALSE
+LB,L Brands Inc.,TRUE,FALSE
+LHX,L3Harris Technologies,TRUE,FALSE
+LH,Laboratory Corp. of America Holding,TRUE,FALSE
+LRCX,Lam Research,TRUE,FALSE
+LW,Lamb Weston Holdings Inc,TRUE,FALSE
+LVS,Las Vegas Sands,TRUE,FALSE
+LEG,Leggett & Platt,TRUE,FALSE
+LDOS,Leidos Holdings,TRUE,FALSE
+LEN,Lennar Corp.,TRUE,FALSE
+LLY,Lilly (Eli) & Co.,TRUE,FALSE
+LNC,Lincoln National,TRUE,FALSE
+LIN,Linde plc,TRUE,FALSE
+LYV,Live Nation Entertainment,TRUE,FALSE
+LKQ,LKQ Corporation,TRUE,FALSE
+LMT,Lockheed Martin Corp.,TRUE,FALSE
+L,Loews Corp.,TRUE,FALSE
+LOW,Lowe's Cos.,TRUE,FALSE
+LYB,LyondellBasell,TRUE,FALSE
+MTB,M&T Bank Corp.,TRUE,FALSE
+MRO,Marathon Oil Corp.,TRUE,FALSE
+MPC,Marathon Petroleum,TRUE,FALSE
+MKTX,MarketAxess,TRUE,FALSE
+MAR,Marriott Int'l.,TRUE,FALSE
+MMC,Marsh & McLennan,TRUE,FALSE
+MLM,Martin Marietta Materials,TRUE,FALSE
+MAS,Masco Corp.,TRUE,FALSE
+MA,Mastercard Inc.,TRUE,FALSE
+MKC,McCormick & Co.,TRUE,FALSE
+MXIM,Maxim Integrated Products Inc,TRUE,FALSE
+MCD,McDonald's Corp.,TRUE,TRUE
+MCK,McKesson Corp.,TRUE,FALSE
+MDT,Medtronic plc,TRUE,FALSE
+MRK,Merck & Co.,TRUE,TRUE
+MET,MetLife Inc.,TRUE,FALSE
+MTD,Mettler Toledo,TRUE,FALSE
+MGM,MGM Resorts International,TRUE,FALSE
+MCHP,Microchip Technology,TRUE,FALSE
+MU,Micron Technology,TRUE,FALSE
+MSFT,Microsoft Corp.,TRUE,TRUE
+MAA,Mid-America Apartments,TRUE,FALSE
+MHK,Mohawk Industries,TRUE,FALSE
+TAP,Molson Coors Beverage Company,TRUE,FALSE
+MDLZ,Mondelez International,TRUE,FALSE
+MNST,Monster Beverage,TRUE,FALSE
+MCO,Moody's Corp,TRUE,FALSE
+MS,Morgan Stanley,TRUE,FALSE
+MOS,The Mosaic Company,TRUE,FALSE
+MSI,Motorola Solutions Inc.,TRUE,FALSE
+MSCI,MSCI Inc,TRUE,FALSE
+MYL,Mylan N.V.,TRUE,FALSE
+NDAQ,"Nasdaq, Inc.",TRUE,FALSE
+NOV,National Oilwell Varco Inc.,TRUE,FALSE
+NTAP,NetApp,TRUE,FALSE
+NFLX,Netflix Inc.,TRUE,FALSE
+NWL,Newell Brands,TRUE,FALSE
+NEM,Newmont Corporation,TRUE,FALSE
+NWSA,News Corp. Class A,TRUE,FALSE
+NWS,News Corp. Class B,TRUE,FALSE
+NEE,NextEra Energy,TRUE,FALSE
+NLSN,Nielsen Holdings,TRUE,FALSE
+NKE,"Nike, Inc.",TRUE,TRUE
+NI,NiSource Inc.,TRUE,FALSE
+NBL,Noble Energy Inc,TRUE,FALSE
+NSC,Norfolk Southern Corp.,TRUE,FALSE
+NTRS,Northern Trust Corp.,TRUE,FALSE
+NOC,Northrop Grumman,TRUE,FALSE
+NLOK,NortonLifeLock,TRUE,FALSE
+NCLH,Norwegian Cruise Line Holdings,TRUE,FALSE
+NRG,NRG Energy,TRUE,FALSE
+NUE,Nucor Corp.,TRUE,FALSE
+NVDA,Nvidia Corporation,TRUE,FALSE
+NVR,"NVR, Inc.",TRUE,FALSE
+ORLY,O'Reilly Automotive,TRUE,FALSE
+OXY,Occidental Petroleum,TRUE,FALSE
+ODFL,Old Dominion Freight Line,TRUE,FALSE
+OMC,Omnicom Group,TRUE,FALSE
+OKE,ONEOK,TRUE,FALSE
+ORCL,Oracle Corp.,TRUE,FALSE
+OTIS,Otis Worldwide,TRUE,FALSE
+PCAR,PACCAR Inc.,TRUE,FALSE
+PKG,Packaging Corporation of America,TRUE,FALSE
+PH,Parker-Hannifin,TRUE,FALSE
+PAYX,Paychex Inc.,TRUE,FALSE
+PAYC,Paycom,TRUE,FALSE
+PYPL,PayPal,TRUE,FALSE
+PNR,Pentair plc,TRUE,FALSE
+PBCT,People's United Financial,TRUE,FALSE
+PEP,PepsiCo Inc.,TRUE,FALSE
+PKI,PerkinElmer,TRUE,FALSE
+PRGO,Perrigo,TRUE,FALSE
+PFE,Pfizer Inc.,TRUE,TRUE
+PM,Philip Morris International,TRUE,FALSE
+PSX,Phillips 66,TRUE,FALSE
+PNW,Pinnacle West Capital,TRUE,FALSE
+PXD,Pioneer Natural Resources,TRUE,FALSE
+PNC,PNC Financial Services,TRUE,FALSE
+PPG,PPG Industries,TRUE,FALSE
+PPL,PPL Corp.,TRUE,FALSE
+PFG,Principal Financial Group,TRUE,FALSE
+PG,Procter & Gamble,TRUE,TRUE
+PGR,Progressive Corp.,TRUE,FALSE
+PLD,Prologis,TRUE,FALSE
+PRU,Prudential Financial,TRUE,FALSE
+PEG,Public Service Enterprise Group (PSEG),TRUE,FALSE
+PSA,Public Storage,TRUE,FALSE
+PHM,PulteGroup,TRUE,FALSE
+PVH,PVH Corp.,TRUE,FALSE
+QRVO,Qorvo,TRUE,FALSE
+PWR,Quanta Services Inc.,TRUE,FALSE
+QCOM,QUALCOMM Inc.,TRUE,FALSE
+DGX,Quest Diagnostics,TRUE,FALSE
+RL,Ralph Lauren Corporation,TRUE,FALSE
+RJF,Raymond James Financial Inc.,TRUE,FALSE
+RTX,Raytheon Technologies,TRUE,TRUE
+O,Realty Income Corporation,TRUE,FALSE
+REG,Regency Centers Corporation,TRUE,FALSE
+REGN,Regeneron Pharmaceuticals,TRUE,FALSE
+RF,Regions Financial Corp.,TRUE,FALSE
+RSG,Republic Services Inc,TRUE,FALSE
+RMD,ResMed,TRUE,FALSE
+RHI,Robert Half International,TRUE,FALSE
+ROK,Rockwell Automation Inc.,TRUE,FALSE
+ROL,Rollins Inc.,TRUE,FALSE
+ROP,Roper Technologies,TRUE,FALSE
+ROST,Ross Stores,TRUE,FALSE
+RCL,Royal Caribbean Cruises Ltd,TRUE,FALSE
+SPGI,"S&P Global, Inc.",TRUE,FALSE
+CRM,Salesforce.com,TRUE,FALSE
+SBAC,SBA Communications,TRUE,FALSE
+SLB,Schlumberger Ltd.,TRUE,FALSE
+STX,Seagate Technology,TRUE,FALSE
+SEE,Sealed Air,TRUE,FALSE
+SRE,Sempra Energy,TRUE,FALSE
+NOW,ServiceNow,TRUE,FALSE
+SHW,Sherwin-Williams,TRUE,FALSE
+SPG,Simon Property Group Inc,TRUE,FALSE
+SWKS,Skyworks Solutions,TRUE,FALSE
+SLG,SL Green Realty,TRUE,FALSE
+SNA,Snap-on,TRUE,FALSE
+SO,Southern Company,TRUE,FALSE
+LUV,Southwest Airlines,TRUE,FALSE
+SWK,Stanley Black & Decker,TRUE,FALSE
+SBUX,Starbucks Corp.,TRUE,FALSE
+STT,State Street Corp.,TRUE,FALSE
+STE,STERIS plc,TRUE,FALSE
+SYK,Stryker Corp.,TRUE,FALSE
+SIVB,SVB Financial,TRUE,FALSE
+SYF,Synchrony Financial,TRUE,FALSE
+SNPS,Synopsys Inc.,TRUE,FALSE
+SYY,Sysco Corp.,TRUE,FALSE
+TMUS,T-Mobile US,TRUE,FALSE
+TROW,T. Rowe Price Group,TRUE,FALSE
+TTWO,Take-Two Interactive,TRUE,FALSE
+TPR,"Tapestry, Inc.",TRUE,FALSE
+TGT,Target Corp.,TRUE,FALSE
+TEL,TE Connectivity Ltd.,TRUE,FALSE
+FTI,TechnipFMC,TRUE,FALSE
+TDY,Teledyne Technologies,TRUE,FALSE
+TFX,Teleflex,TRUE,FALSE
+TXN,Texas Instruments,TRUE,FALSE
+TXT,Textron Inc.,TRUE,FALSE
+TMO,Thermo Fisher Scientific,TRUE,FALSE
+TIF,Tiffany & Co.,TRUE,FALSE
+TJX,TJX Companies Inc.,TRUE,FALSE
+TSCO,Tractor Supply Company,TRUE,FALSE
+TT,Trane Technologies plc,TRUE,FALSE
+TDG,TransDigm Group,TRUE,FALSE
+TRV,The Travelers Companies Inc.,TRUE,TRUE
+TFC,Truist Financial,TRUE,FALSE
+TWTR,"Twitter, Inc.",TRUE,FALSE
+TYL,Tyler Technologies,TRUE,FALSE
+TSN,Tyson Foods,TRUE,FALSE
+UDR,"UDR, Inc.",TRUE,FALSE
+ULTA,Ulta Beauty,TRUE,FALSE
+USB,U.S. Bancorp,TRUE,FALSE
+UAA,Under Armour (Class A),TRUE,FALSE
+UA,Under Armour (Class C),TRUE,FALSE
+UNP,Union Pacific Corp,TRUE,FALSE
+UAL,United Airlines Holdings,TRUE,FALSE
+UNH,United Health Group Inc.,TRUE,TRUE
+UPS,United Parcel Service,TRUE,FALSE
+URI,"United Rentals, Inc.",TRUE,FALSE
+UHS,Universal Health Services,TRUE,FALSE
+UNM,Unum Group,TRUE,FALSE
+VFC,VF Corporation,TRUE,FALSE
+VLO,Valero Energy,TRUE,FALSE
+VAR,Varian Medical Systems,TRUE,FALSE
+VTR,Ventas Inc,TRUE,FALSE
+VRSN,Verisign Inc.,TRUE,FALSE
+VRSK,Verisk Analytics,TRUE,FALSE
+VZ,Verizon Communications,TRUE,TRUE
+VRTX,Vertex Pharmaceuticals Inc,TRUE,FALSE
+VIAC,ViacomCBS,TRUE,FALSE
+V,Visa Inc.,TRUE,TRUE
+VNO,Vornado Realty Trust,TRUE,FALSE
+VMC,Vulcan Materials,TRUE,FALSE
+WRB,W. R. Berkley Corporation,TRUE,FALSE
+WAB,Wabtec Corporation,TRUE,FALSE
+WMT,Walmart,TRUE,TRUE
+WBA,Walgreens Boots Alliance,TRUE,TRUE
+DIS,The Walt Disney Company,TRUE,TRUE
+WM,Waste Management Inc.,TRUE,FALSE
+WAT,Waters Corporation,TRUE,FALSE
+WEC,WEC Energy Group,TRUE,FALSE
+WFC,Wells Fargo,TRUE,FALSE
+WELL,Welltower Inc.,TRUE,FALSE
+WST,West Pharmaceutical Services,TRUE,FALSE
+WDC,Western Digital,TRUE,FALSE
+WU,Western Union Co,TRUE,FALSE
+WRK,WestRock,TRUE,FALSE
+WY,Weyerhaeuser,TRUE,FALSE
+WHR,Whirlpool Corp.,TRUE,FALSE
+WMB,Williams Companies,TRUE,FALSE
+WLTW,Willis Towers Watson,TRUE,FALSE
+WYNN,Wynn Resorts Ltd,TRUE,FALSE
+XEL,Xcel Energy Inc,TRUE,FALSE
+XRX,Xerox,TRUE,FALSE
+XLNX,Xilinx,TRUE,FALSE
+XYL,Xylem Inc.,TRUE,FALSE
+YUM,Yum! Brands Inc,TRUE,FALSE
+ZBRA,Zebra Technologies,TRUE,FALSE
+ZBH,Zimmer Biomet Holdings,TRUE,FALSE
+ZION,Zions Bancorp,TRUE,FALSE
+ZTS,Zoetis,TRUE,FALSE
