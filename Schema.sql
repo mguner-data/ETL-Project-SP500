@@ -1,7 +1,7 @@
 -- Drop tables if necessary
-DROP TABLE IF EXISTS Ticker_Security;
-DROP TABLE IF EXISTS Index_Event;
 DROP TABLE IF EXISTS Daily_Data;
+DROP TABLE IF EXISTS Index_Event;
+DROP TABLE IF EXISTS Ticker_Security;
 
 -- Create tables
 create table Ticker_Security (
@@ -41,3 +41,6 @@ select * from Index_Event;
 select * from Daily_Data;
 
 select * from Daily_Data where ticker = 'GGP';
+select * from Daily_Data where ticker = 'AAPL';
+select * from Daily_Data where ticker = 'MSFT';
+select * from Daily_Data where ticker = 'ZTS';

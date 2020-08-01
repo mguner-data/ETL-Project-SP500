@@ -7,6 +7,7 @@ __pycache__/
 all_stocks_5yr.csv
 api_keys.py
 Alpha_Vantage_Export.csv
+secret.py
 
 # C extensions
 *.so
