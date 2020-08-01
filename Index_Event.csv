@@ -1,0 +1,486 @@
+Date,ticker,Reason,Direction,Indices
+3-Apr-20,OTIS,United Technologies spun off Otis and Carrier and acquired Raytheon Company.[9],TRUE,SP500
+3-Apr-20,CARR,United Technologies spun off Otis and Carrier and acquired Raytheon Company.[9],TRUE,SP500
+8-Apr-16,UA,Under Armour distribution of second class of stock,TRUE,SP500
+18-Sep-15,CMCSK,Share class methodology change[95],TRUE,SP500
+18-Sep-15,FOX,Share class methodology change,TRUE,SP500
+18-Sep-15,NWS,Share class methodology change,TRUE,SP500
+6-Aug-14,DISCK,Class C share distribution[116],TRUE,SP500
+3-Apr-14,GOOGL,Google Class C share distribution[122],TRUE,SP500
+23-Dec-13,ADS,Market capitalization changes.[126],TRUE,SP500
+18-Jun-18,HFC,Capitalization rebalance.,TRUE,SP500
+3-May-16,AYI,ADT acquired by APO[76],TRUE,SP500
+20-Sep-13,VRTX,Market capitalization changes[131],TRUE,SP500
+3-Dec-18,MXIM,CVS acquired Aetna[30],TRUE,SP500
+23-Dec-19,LYV,Market capitalization change.[12],TRUE,SP500
+1-Jul-16,LNT,GAS acquired by SO[69],TRUE,SP500
+23-May-16,LKQ,ARG acquired by Air Liquide[73],TRUE,SP500
+16-Dec-11,BWA,Market capitalization changes[160],TRUE,SP500
+2-Jun-06,JNPR,Albertsons acquired by SuperValu and CVS Corp.[197],TRUE,SP500
+25-Feb-11,JOY,Acquired by First Energy (FE).[173],TRUE,SP500
+2-Jul-15,CPGX,Spin off of Columbia Pipeline.[101],TRUE,SP500
+12-May-20,DXCM,Allergan acquired byæAbbVie.[8],TRUE,SP500
+23-Mar-15,AAL,"Allergan acquired by Actavis plc (and changed name to Allergan, pl.[106]",TRUE,SP500
+22-Jun-20,BIO,Market capitalization change.[6],TRUE,SP500
+2-Oct-12,KRFT,Kraft split into two companies[146],TRUE,SP500
+29-Dec-15,CHD,ALTR taken over by INTC[88],TRUE,SP500
+10-Jun-08,LO,Market Value Decline[189],TRUE,SP500
+3-Mar-09,HRL,Capitalization rebalance.[184],TRUE,SP500
+9-Aug-19,LDOS,S&P 500 & 100 constituent Occidental Petroleum Corp. (NYSE:OXY) acquired Anadarko Petroleum.[19],TRUE,SP500
+1-Oct-18,ROL,ANDV acquired byæMarathon Petroleum.[34],TRUE,SP500
+28-Jun-13,FOXA,Apollo Group's market cap more representative of a mid-cap[134],TRUE,SP500
+8-Aug-17,BHF,"BHF replaced AN,[50]æMET spun off BHF[50]",TRUE,SP500
+26-Oct-07,JEC,Taken private[192],TRUE,SP500
+23-Mar-15,HBI,Market Capitalization Changes.,TRUE,SP500
+3-Jun-16,TDG,SHPG acquiring BXLT[71],TRUE,SP500
+1-May-14,UA,Beam acquired by Suntory[121],TRUE,SP500
+26-Jul-17,AOS,Market capitalization changes.,TRUE,SP500
+5-Dec-14,RCL,Market cap changes[112],TRUE,SP500
+5-Dec-00,INTU,Market Cap changes.[200],TRUE,SP500
+15-Feb-13,PVH,Market capitalization changes[140],TRUE,SP500
+29-Apr-10,CERN,Acquired by Baker Hughes Inc. (BHI)[180],TRUE,SP500
+10-Sep-13,DAL,BMC taken private by consortium[132],TRUE,SP500
+2-Apr-19,DOW,DOW spun off from DWDP[24],TRUE,SP500
+1-Feb-16,FRT,FRT replaces BRCM[85],TRUE,SP500
+6-Nov-18,KEYS,CA acquired byæBroadcom Inc..[32],TRUE,SP500
+22-Jun-16,FBHS,CVC acquired by Altice NV[70],TRUE,SP500
+4-Apr-16,FL,Schlumberger acquired Cameron[79],TRUE,SP500
+12-May-20,DPZ,Market capitalization change.[8],TRUE,SP500
+18-Mar-15,HSIC,Carefusion acquired by Becton Dickinson[108],TRUE,SP500
+21-Nov-19,NOW,Bristol-Myers SquibbæCo. (NYSE:BMY) acquired Celgene.[15],TRUE,SP500
+14-Oct-11,TEL,Acquired byæTeva Pharmaceutical Industriesæ(TEVA).[164],TRUE,SP500
+19-Mar-18,NKTR,Market capitalization changes.,TRUE,SP500
+19-Jan-16,EXR,EXR replaces CB[86],TRUE,SP500
+3-Mar-20,GDI,"Gardner Denver acquiredæIngersoll Rand plc's industrial businesses then changed its name to the ""new"" Ingersoll Rand Inc. and later changed the ticker to IR.[10]",TRUE,SP500
+2-Apr-14,ESS,Market capitalization changes[123],TRUE,SP500
+31-May-16,AJG,CCE merging with European bottlers[72],TRUE,SP500
+5-Jul-16,FTV,CPGX acquired by TRP[68],TRUE,SP500
+1-Dec-15,CSRA,CSC spins off CSRA[90],TRUE,SP500
+31-Dec-11,WPX,Market capitalization changes[158],TRUE,SP500
+4-Mar-16,AWK,AWK replaces CNX[82],TRUE,SP500
+13-Mar-12,CCI,Acquired by Exelon Corp. (EXC)[157],TRUE,SP500
+3-Dec-12,DG,Acquired by Eaton Corp. (ETN)[144],TRUE,SP500
+28-Sep-09,ARG,Redomesticated to Ireland[183],TRUE,SP500
+8-May-13,MAC,Acquired by Aetna (AET)[138],TRUE,SP500
+27-Jan-15,ENDP,Covidien acquired by Medtronic[111],TRUE,SP500
+3-Jan-18,HII,Becton Dickinsonæacquired BCR.[46],TRUE,SP500
+5-Dec-00,ABK,Market Cap changes.,TRUE,SP500
+4-Apr-18,MSCI,S&P 500 constituentæGeneral DynamicsæCorp. (NYSE: GD) acquired CSRA.[43],TRUE,SP500
+23-May-13,KSU,DF too small after spinoff of White Wave Foods[137],TRUE,SP500
+29-Oct-13,RIG,Founder Michael Dell and Silver Lake Partners acquired Dell.[130],TRUE,SP500
+23-Mar-15,EQIX,Market Capitalization Changes.[107],TRUE,SP500
+1-Oct-12,PNR,Tyco spin-off merged w/Pentair[147],TRUE,SP500
+30-Sep-16,COTY,COTY replaces DO[64],TRUE,SP500
+29-Jul-15,SIG,DirectTV acquired by AT&T[97],TRUE,SP500
+13-Dec-07,GME,Acquired byæNews Corp.[191],TRUE,SP500
+2-Jul-18,CPRT,DPS acquired byæKeurig Green Mountain.[37],TRUE,SP500
+5-Apr-17,IT,IT acquiring CEB[55],TRUE,SP500
+1-Sep-17,SBAC,The Dow Chemical Company acquired DuPont.[49],TRUE,SP500
+17-Dec-10,FFIV,Market Cap changes.[174],TRUE,SP500
+17-May-12,KMI,Acquired by Kinder Morgan (KMI)[154],TRUE,SP500
+8-Sep-16,CHTR,Dell acquires EMC[66],TRUE,SP500
+2-Mar-17,REG,REG acquires EQY[61],TRUE,SP500
+30-Mar-16,CNC,Centene acquired Health Net[80],TRUE,SP500
+11-Oct-18,FTNT,EVHC acquired byæKohlberg Kravis Roberts.[33],TRUE,SP500
+13-Nov-18,JKHY,EQT spun off ETRN[31],TRUE,SP500
+24-Dec-18,CE,S&P 500 constituent Cigna (NYSE: CI) acquired ESRX[29],TRUE,SP500
+8-Jul-15,AAP,Family Dollar Acquired.[99],TRUE,SP500
+12-Sep-08,FAST,Capitalization rebalance.[188],TRUE,SP500
+31-Dec-12,ABBV,ABBV spun off from Abbott Labs (ABT)[141],TRUE,SP500
+26-Sep-07,ICE,FDC acquired byæKohlberg Kravis Roberts.[193],TRUE,SP500
+21-Jun-13,ZTS,Zoetis spun off by Pfizer[135],TRUE,SP500
+20-Mar-17,ARE,Market capitalization changes.,TRUE,SP500
+3-Jun-19,CTVA,CTVA spun off from DWDP (which then changed symbol to DD)[23],TRUE,SP500
+9-Aug-19,IEX,Foot Locker moved to the S&P MidCap 400.[19],TRUE,SP500
+1-Jul-14,AMG,Actavis acquires Forest Laboratories[118],TRUE,SP500
+5-Jan-16,WLTW,WSH merges with TW (and renames to WLTW)[87],TRUE,SP500
+12-Sep-08,CRM,Capitalization rebalance.[187],TRUE,SP500
+20-Mar-17,RJF,Market capitalization changes.,TRUE,SP500
+25-Apr-16,GPN,Global Payments is acquiring Heartland Payment Systems[77],TRUE,SP500
+18-Nov-15,SYF,GE spinning off Synchrony Financial[92],TRUE,SP500
+1-Apr-11,BLK,Acquired by Sanofi-aventis (SNY)[170],TRUE,SP500
+28-Aug-18,ANET,GGP acquired byæBrookfield Property Partners.[36],TRUE,SP500
+31-Jul-12,ESV,Acquired by United Technologies (UTX)[149],TRUE,SP500
+20-Sep-14,UHS,Market cap changes,TRUE,SP500
+1-Jul-05,STZ,Acquired byæCrompton Corp.[198],TRUE,SP500
+6-Jun-13,GM,HNZ acquired by consortium[136],TRUE,SP500
+22-Jun-20,TDY,Market capitalization change.[6],TRUE,SP500
+16-Mar-17,SNPS,Samsung ElectronicsæCo. Ltd. acquired Harman International Industries.[59],TRUE,SP500
+22-May-20,WST,Market capitalization change.[7],TRUE,SP500
+2-Sep-15,UAL,Hospira taken over[96],TRUE,SP500
+2-Nov-15,HPE,HPQ spins off HPE[93],TRUE,SP500
+26-Feb-10,HP,Taken private[181],TRUE,SP500
+1-Jul-15,JBHT,Integris taken over.[102],TRUE,SP500
+20-Jun-14,XEC,Market capitalization changes[119],TRUE,SP500
+31-Oct-11,XYL,Spun off from ITT Corp.[163],TRUE,SP500
+2-Dec-13,ALLE,Allegion spun off by Ingersoll Rand[128],TRUE,SP500
+5-Nov-14,LVLT,Market cap changes[113],TRUE,SP500
+18-Nov-11,CBE,Janus Capital Group's market capitalization is less than $1.2 billion,TRUE,SP500
+23-Dec-13,MHK,Market capitalization changes,TRUE,SP500
+26-Sep-19,NVR,JEF spun off SPB.[17],TRUE,SP500
+6-Sep-16,MTD,TYC acquires JCI (and becomes new JCI).[67],TRUE,SP500
+3-Mar-09,VTR,Capitalization rebalance.,TRUE,SP500
+7-Oct-15,VRSK,Market capitalization change.[94],TRUE,SP500
+7-Mar-16,UDR,JAB Holding Company acquired Keurig Green Mountain[81],TRUE,SP500
+24-Aug-07,LUK,Acquired byæNational Grid plc[194],TRUE,SP500
+17-Dec-10,CVC,Acquired by Pfizer Inc. (PFE).[174],TRUE,SP500
+6-Jul-15,KHC,Kraft merger with Heinz.[100],TRUE,SP500
+1-Jul-19,MKTX,L3 purchased by Harris Corporation[21],TRUE,SP500
+7-Dec-99,YHOO,Market Cap change.[202],TRUE,SP500
+2-Dec-16,EVHC,Market capitalization changes,TRUE,SP500
+16-Sep-08,HRS,Lehman Brothers bankruptcy.[186],TRUE,SP500
+13-Oct-17,NCLH,CenturyLink Incæacquired LVLT.[47],TRUE,SP500
+1-Oct-12,ADT,Tyco spun off ADT[147],TRUE,SP500
+24-Jan-14,TSCO,Life Technologies acquired by Thermo Fisher Scientific Inc[125],TRUE,SP500
+13-Mar-17,DISH,S&P 500 constituent Analog Devices Inc. (NASD:ADI) acquired Linear Technology.[60],TRUE,SP500
+11-Jun-15,QRVO,Lorillard Inc. gets acquired.[104],TRUE,SP500
+8-May-14,AVGO,Avago acquires LSI[120],TRUE,SP500
+23-Dec-19,STE,Market capitalization change.[12],TRUE,SP500
+26-Jul-17,RMD,Market capitalization changes.,TRUE,SP500
+5-Jul-11,ACN,Marshall & Iisley is being bought by Bank of Montreal[166],TRUE,SP500
+1-Jun-11,ANR,Alpha Natural Resources is acquiring Massey Energy in a deal expected to be,TRUE,SP500
+7-Jun-19,BMS,Bemis merged with Amcor; subsequently renamed toæAmcor plc[22],TRUE,SP500
+27-Sep-07,TSO,MXIM delisted from NASDAQ exchange.[193],TRUE,SP500
+28-Feb-11,COV,Acquired by Intel Corp. (INTC)[172],TRUE,SP500
+19-Jun-17,RE,Reckitt BenckiseræGroup plc acquired Mead Johnson Nutrition.[53],TRUE,SP500
+3-Apr-12,FOSL,Acquired by Express Scripts (ESRX)[156],TRUE,SP500
+16-Dec-11,DLTR,Market capitalization changes,TRUE,SP500
+30-Apr-13,REGN,A majority of MetroPCS was acquired by T-Mobile[139],TRUE,SP500
+14-Jul-10,CB,Acquired by Merck KGaA (MKGAY)[177],TRUE,SP500
+10-Dec-13,GGP,MOLX acquired byæKoch Industries.[127],TRUE,SP500
+7-Jun-18,TWTR,Bayeræacquired Monsanto.[40],TRUE,SP500
+16-Dec-11,PRGO,Market capitalization changes,TRUE,SP500
+21-May-12,ALXN,Acquired by Google (GOOG)[153],TRUE,SP500
+26-Jul-17,PKG,Market capitalization changes.,TRUE,SP500
+23-Mar-15,SLG,Market Capitalization Changes.,TRUE,SP500
+23-Sep-11,MOS,Acquired byæTexas Instrumentsæ(TXN).[165],TRUE,SP500
+5-Jun-18,EVRG,Westar Energy (NYSE: WR) acquired Great Plains Energy (NYSE: GXP) and changed name to Evergy.[41],TRUE,SP500
+1-Oct-07,TDC,Teradata spun off by NCR Corp.[193],TRUE,SP500
+3-Oct-19,LVS,Market Cap changes[16],TRUE,SP500
+15-Feb-19,ATO,ECA acquired NFX[26],TRUE,SP500
+12-Dec-11,GAS,"Nicor acquired by AGL, which retained the GAS ticker.[161]",TRUE,SP500
+20-Jul-15,PYPL,PayPal Spun off by eBay[98],TRUE,SP500
+22-Jun-20,TYL,Market capitalization change.[6],TRUE,SP500
+27-Apr-11,CMG,Acquired by private equity firms.[169],TRUE,SP500
+5-Jun-12,LRCX,Acquired by Lam Research (LRCX)[152],TRUE,SP500
+13-Nov-13,KORS,ICE Exchange acquired NYSE Euronext[129],TRUE,SP500
+17-Dec-10,NFLX,Market Cap changes.,TRUE,SP500
+2-Dec-16,MAA,Market capitalization changes[63],TRUE,SP500
+5-Dec-00,SBL,Market Cap changes.,TRUE,SP500
+17-Nov-10,IR,Reynolds Group Holding Ltd. acquired Pactiv.[175],TRUE,SP500
+28-Aug-15,ATVI,Pall taken over[96],TRUE,SP500
+19-Mar-18,SIVB,Market capitalization changes.,TRUE,SP500
+20-Sep-14,URI,Market cap changes[114],TRUE,SP500
+30-Mar-16,HOLX,Exelon Corp acquired Pepco[80],TRUE,SP500
+12-Mar-15,SWKS,PetSmart acquired by private equity consortium[109],TRUE,SP500
+18-Jan-19,TFX,PCG filed for bankruptcy[27],TRUE,SP500
+1-Mar-17,CBOE,CBOE acquires BATS[61],TRUE,SP500
+22-Feb-16,CXO,PCL taken over by WY[83],TRUE,SP500
+1-Feb-16,CFG,CFG replaces PCP[84],TRUE,SP500
+2-Jul-12,STX,Acquired by Duke Energy (DUK)[150],TRUE,SP500
+1-Jul-15,BXLT,Baxalta spun off by Baxter.[103],TRUE,SP500
+30-Jun-10,QEP,"Company split. QEP retained, but ticker changed.[178]",TRUE,SP500
+25-Sep-03,ESRX,Taken private[199],TRUE,SP500
+31-Mar-11,EW,Acquired by CenturyLink[171],TRUE,SP500
+11-Dec-12,GRMN,Market capitalization changes[143],TRUE,SP500
+30-Jun-11,MPC,Market capitalization adjustments.[167],TRUE,SP500
+18-Jun-18,BR,Capitalization rebalance.[39],TRUE,SP500
+15-Jul-19,TMUS,S&P 500 & 100 constituentæIBMæacquired Red Hat.[20],TRUE,SP500
+26-Jul-17,MGM,British American Tobaccoæplc (NYSE MKT:BTI) acquired Reynolds American.[51],TRUE,SP500
+27-Jul-00,JDSU,Market Cap change.[201],TRUE,SP500
+3-Dec-18,LW,UTX acquired COL[30],TRUE,SP500
+18-Aug-14,MNK,Market cap changes[115],TRUE,SP500
+19-Jun-17,ANSS,,TRUE,SP500
+30-Mar-07,KFT,Taken Private[195],TRUE,SP500
+27-Jan-15,HCA,Safeway acquired by private equity consortium[110],TRUE,SP500
+20-Sep-13,AME,Market capitalization changes,TRUE,SP500
+13-May-16,ALK,SNDK acquired by WDC[75],TRUE,SP500
+29-Jun-12,MNST,Split up of Sara Lee[151],TRUE,SP500
+2-Jan-19,FRC,Dominion Energy acquired SCANA Corporation[28],TRUE,SP500
+3-Nov-09,PCLN,Acquired by Merck & Co. (MRK)[182],TRUE,SP500
+7-Mar-18,IPGP,Discovery Communicationsæacquired SNI.[45],TRUE,SP500
+5-Sep-12,LYB,SHLD below public float threshold[148],TRUE,SP500
+19-Nov-15,ILMN,Sigma-Aldrich acquired by Merck KGaA (MKGAY)[91],TRUE,SP500
+19-Mar-18,TTWO,Market capitalization changes.[44],TRUE,SP500
+1-May-14,NAVI,Navient Spun off from SLM[121],TRUE,SP500
+26-Aug-10,TYC,Acquired by Schlumberger Ltd. (SLB)[176],TRUE,SP500
+2-Oct-07,EXPE,Solectron acquired byæFlextronics.[193],TRUE,SP500
+4-Apr-17,DXC,"HPE spins off Everett Inc., merged with CSC to form DXC[56][57]",TRUE,SP500
+28-Feb-17,INCY,SE acquired by ENB[61],TRUE,SP500
+8-Jul-13,NLSN,Softbank consortium purchase results in public float below 50%[133],TRUE,SP500
+5-Jan-17,IDXX,S&P 100 & 500 constituent Abbott Laboratories (NYSE:ABT) acquired St. Jude Medical.[62],TRUE,SP500
+18-Sep-17,CDNS,Sycamore Partnersæacquired Staples.[48],TRUE,SP500
+22-Sep-16,COO,MAR acquires HOT[65],TRUE,SP500
+3-Dec-18,FANG,Market Capitalization change[30],TRUE,SP500
+10-Oct-12,PETM,Acquired by Energy Transfer Partners (ETP)[145],TRUE,SP500
+9-Dec-19,ODFL,BB&T acquired SunTrust to formæTruist Financial.[13],TRUE,SP500
+23-Apr-12,PSX,ConocoPhillips spun off Phillips 66[155],TRUE,SP500
+10-Jan-07,AVB,Acquired by Motorola[196],TRUE,SP500
+1-Jul-16,ALB,TE acquired by EMA[68],TRUE,SP500
+2-Jun-17,INFO,TGNA spins offæCars.com[54],TRUE,SP500
+20-Dec-11,TRIP,Expedia Inc. spun off TripAdvisor Inc.[159],TRUE,SP500
+18-Apr-16,ULTA,Ulta replaces Tenet[78],TRUE,SP500
+19-Jun-17,ALGN,Market capitalization changes.[52],TRUE,SP500
+23-Dec-13,FB,Market capitalization changes,TRUE,SP500
+27-Feb-19,WAB,WAB acquired GE transportation business[25],TRUE,SP500
+17-Dec-10,NFX,Market Cap changes.,TRUE,SP500
+20-Jun-18,FLT,AT&T acquired Time Warner.[38],TRUE,SP500
+18-May-16,DLR,TWC acquired by CHTR[74],TRUE,SP500
+21-Dec-12,DLPH,TIE acquired by Precision Cast Parts (PCP)[142],TRUE,SP500
+26-Jul-17,DRE,Market capitalization changes.[51],TRUE,SP500
+20-Dec-07,RRC,Taken private[190],TRUE,SP500
+23-Dec-19,ZBRA,Market capitalization change.[12],TRUE,SP500
+23-Sep-19,CDW,S&P 500 constituent Global Payments Inc. (NYSE: GPN) acquired TSS.[18],TRUE,SP500
+2-Jul-14,MLM,Market capitalization changes[117],TRUE,SP500
+20-Mar-17,AMD,Market capitalization changes.[58],TRUE,SP500
+5-Dec-19,WRB,CBS acquired Viacom to formæViacomCBS.[14],TRUE,SP500
+5-Dec-00,AYE,Market Cap changes.,TRUE,SP500
+31-Dec-08,OI,Wachovia Bank acquired by Wells Fargo.[185],TRUE,SP500
+28-Jan-20,PAYC,S&P 500 constituent Centene Corp. (NYSE: CNC) acquired Wellcare Health Plans.[11],TRUE,SP500
+29-Aug-17,Q,Amazon.com Inc. acquired Whole Foods Market.[49],TRUE,SP500
+7-Apr-15,O,Market capitalization change.[105],TRUE,SP500
+21-Mar-14,GMCR,Market capitalization changes[124],TRUE,SP500
+31-May-18,ABMD,Wyndham Worldwide spun off Wyndham Hotels & Resorts Inc. (NYSE:WH).[42],TRUE,SP500
+14-Sep-18,WCG,XL acquired byæAXA.[35],TRUE,SP500
+28-Jun-10,KMX,Acquired by ExxonMobil Inc. (XOM)[179],TRUE,SP500
+19-Jun-17,HLT,VZ acquired YHOO operations; remainder of YHOO converted to closed-end company known asæAltaba.[52],TRUE,SP500
+23-Dec-13,ANF,Market capitalization changes.[126],FALSE,SP500
+18-Jun-18,AYI,Capitalization rebalance.,FALSE,SP500
+3-May-16,ADT,ADT acquired by APO[76],FALSE,SP500
+20-Sep-13,AMD,Market capitalization changes[131],FALSE,SP500
+3-Dec-18,AET,CVS acquired Aetna[30],FALSE,SP500
+23-Dec-19,AMG,Market capitalization change.[12],FALSE,SP500
+1-Jul-16,GAS,GAS acquired by SO[69],FALSE,SP500
+23-May-16,ARG,ARG acquired by Air Liquide[73],FALSE,SP500
+16-Dec-11,AKS,Market capitalization changes[160],FALSE,SP500
+2-Jun-06,ABS,Albertsons acquired by SuperValu and CVS Corp.[197],FALSE,SP500
+25-Feb-11,AYE,Acquired by First Energy (FE).[173],FALSE,SP500
+2-Jul-15,ATI,Spin off of Columbia Pipeline.[101],FALSE,SP500
+12-May-20,AGN,Allergan acquired byæAbbVie.[8],FALSE,SP500
+23-Mar-15,AGN,"Allergan acquired by Actavis plc (and changed name to Allergan, pl.[106]",FALSE,SP500
+22-Jun-20,ADS,Market capitalization change.[6],FALSE,SP500
+2-Oct-12,ANR,Kraft split into two companies[146],FALSE,SP500
+29-Dec-15,ALTR,ALTR taken over by INTC[88],FALSE,SP500
+10-Jun-08,ABK,Market Value Decline[189],FALSE,SP500
+3-Mar-09,ACAS,Capitalization rebalance.[184],FALSE,SP500
+9-Aug-19,APC,S&P 500 & 100 constituent Occidental Petroleum Corp. (NYSE:OXY) acquired Anadarko Petroleum.[19],FALSE,SP500
+1-Oct-18,ANDV,ANDV acquired byæMarathon Petroleum.[34],FALSE,SP500
+28-Jun-13,APOL,Apollo Group's market cap more representative of a mid-cap[134],FALSE,SP500
+8-Aug-17,AN,"BHF replaced AN,[50]æMET spun off BHF[50]",FALSE,SP500
+26-Oct-07,AV,Taken private[192],FALSE,SP500
+23-Mar-15,AVP,Market Capitalization Changes.,FALSE,SP500
+3-Jun-16,BXLT,SHPG acquiring BXLT[71],FALSE,SP500
+1-May-14,BEAM,Beam acquired by Suntory[121],FALSE,SP500
+26-Jul-17,BBBY,Market capitalization changes.,FALSE,SP500
+5-Dec-14,BMS,Market cap changes[112],FALSE,SP500
+5-Dec-00,BS,Market Cap changes.[200],FALSE,SP500
+15-Feb-13,BIG,Market capitalization changes[140],FALSE,SP500
+29-Apr-10,BJS,Acquired by Baker Hughes Inc. (BHI)[180],FALSE,SP500
+10-Sep-13,BMC,BMC taken private by consortium[132],FALSE,SP500
+2-Apr-19,BHF,DOW spun off from DWDP[24],FALSE,SP500
+1-Feb-16,BRCM,FRT replaces BRCM[85],FALSE,SP500
+6-Nov-18,CA,CA acquired byæBroadcom Inc..[32],FALSE,SP500
+22-Jun-16,CVC,CVC acquired by Altice NV[70],FALSE,SP500
+4-Apr-16,CAM,Schlumberger acquired Cameron[79],FALSE,SP500
+12-May-20,CPRI,Market capitalization change.[8],FALSE,SP500
+18-Mar-15,CFN,Carefusion acquired by Becton Dickinson[108],FALSE,SP500
+21-Nov-19,CELG,Bristol-Myers SquibbæCo. (NYSE:BMY) acquired Celgene.[15],FALSE,SP500
+14-Oct-11,CEPH,Acquired byæTeva Pharmaceutical Industriesæ(TEVA).[164],FALSE,SP500
+19-Mar-18,CHK,Market capitalization changes.,FALSE,SP500
+19-Jan-16,CB,EXR replaces CB[86],FALSE,SP500
+3-Mar-20,XEC,"Gardner Denver acquiredæIngersoll Rand plc's industrial businesses then changed its name to the ""new"" Ingersoll Rand Inc. and later changed the ticker to IR.[10]",FALSE,SP500
+2-Apr-14,CLF,Market capitalization changes[123],FALSE,SP500
+31-May-16,CCE,CCE merging with European bottlers[72],FALSE,SP500
+5-Jul-16,CPGX,CPGX acquired by TRP[68],FALSE,SP500
+15-Dec-15,CMCSK,CMCSK shares no longer listed[89],FALSE,SP500
+1-Dec-15,CSC,CSC spins off CSRA[90],FALSE,SP500
+31-Dec-11,CPWR,Market capitalization changes[158],FALSE,SP500
+4-Mar-16,CNX,AWK replaces CNX[82],FALSE,SP500
+13-Mar-12,CEG,Acquired by Exelon Corp. (EXC)[157],FALSE,SP500
+3-Dec-12,CBE,Acquired by Eaton Corp. (ETN)[144],FALSE,SP500
+28-Sep-09,CBE,Redomesticated to Ireland[183],FALSE,SP500
+8-May-13,CVH,Acquired by Aetna (AET)[138],FALSE,SP500
+27-Jan-15,COV,Covidien acquired by Medtronic[111],FALSE,SP500
+3-Jan-18,BCR,Becton Dickinsonæacquired BCR.[46],FALSE,SP500
+5-Dec-00,CCK,Market Cap changes.,FALSE,SP500
+4-Apr-18,CSRA,S&P 500 constituentæGeneral DynamicsæCorp. (NYSE: GD) acquired CSRA.[43],FALSE,SP500
+23-May-13,DF,DF too small after spinoff of White Wave Foods[137],FALSE,SP500
+29-Oct-13,DELL,Founder Michael Dell and Silver Lake Partners acquired Dell.[130],FALSE,SP500
+23-Mar-15,DNR,Market Capitalization Changes.[107],FALSE,SP500
+1-Oct-12,DV,Tyco spin-off merged w/Pentair[147],FALSE,SP500
+30-Sep-16,DO,COTY replaces DO[64],FALSE,SP500
+29-Jul-15,DTV,DirectTV acquired by AT&T[97],FALSE,SP500
+13-Dec-07,DJ,Acquired byæNews Corp.[191],FALSE,SP500
+2-Jul-18,DPS,DPS acquired byæKeurig Green Mountain.[37],FALSE,SP500
+5-Apr-17,DNB,IT acquiring CEB[55],FALSE,SP500
+1-Sep-17,DD,The Dow Chemical Company acquired DuPont.[49],FALSE,SP500
+17-Dec-10,EK,Market Cap changes.[174],FALSE,SP500
+17-May-12,EP,Acquired by Kinder Morgan (KMI)[154],FALSE,SP500
+8-Sep-16,EMC,Dell acquires EMC[66],FALSE,SP500
+2-Mar-17,ENDP,REG acquires EQY[61],FALSE,SP500
+30-Mar-16,ESV,Centene acquired Health Net[80],FALSE,SP500
+11-Oct-18,EVHC,EVHC acquired byæKohlberg Kravis Roberts.[33],FALSE,SP500
+13-Nov-18,EQT,EQT spun off ETRN[31],FALSE,SP500
+24-Dec-18,ESRX,S&P 500 constituent Cigna (NYSE: CI) acquired ESRX[29],FALSE,SP500
+8-Jul-15,FDO,Family Dollar Acquired.[99],FALSE,SP500
+12-Sep-08,FNM,Capitalization rebalance.[188],FALSE,SP500
+31-Dec-12,FII,ABBV spun off from Abbott Labs (ABT)[141],FALSE,SP500
+26-Sep-07,FDC,FDC acquired byæKohlberg Kravis Roberts.[193],FALSE,SP500
+21-Jun-13,FHN,Zoetis spun off by Pfizer[135],FALSE,SP500
+20-Mar-17,FSLR,Market capitalization changes.,FALSE,SP500
+3-Jun-19,FLR,CTVA spun off from DWDP (which then changed symbol to DD)[23],FALSE,SP500
+9-Aug-19,FL,Foot Locker moved to the S&P MidCap 400.[19],FALSE,SP500
+1-Jul-14,FRX,Actavis acquires Forest Laboratories[118],FALSE,SP500
+5-Jan-16,FOSL,WSH merges with TW (and renames to WLTW)[87],FALSE,SP500
+12-Sep-08,FRE,Capitalization rebalance.[187],FALSE,SP500
+20-Mar-17,FTR,Market capitalization changes.,FALSE,SP500
+25-Apr-16,GME,Global Payments is acquiring Heartland Payment Systems[77],FALSE,SP500
+18-Nov-15,GNW,GE spinning off Synchrony Financial[92],FALSE,SP500
+1-Apr-11,GENZ,Acquired by Sanofi-aventis (SNY)[170],FALSE,SP500
+28-Aug-18,GGP,GGP acquired byæBrookfield Property Partners.[36],FALSE,SP500
+31-Jul-12,GR,Acquired by United Technologies (UTX)[149],FALSE,SP500
+20-Sep-14,GHC,Market cap changes,FALSE,SP500
+1-Jul-05,GLK,Acquired byæCrompton Corp.[198],FALSE,SP500
+6-Jun-13,HNZ,HNZ acquired by consortium[136],FALSE,SP500
+22-Jun-20,HOG,Market capitalization change.[6],FALSE,SP500
+16-Mar-17,HAR,Samsung ElectronicsæCo. Ltd. acquired Harman International Industries.[59],FALSE,SP500
+22-May-20,HP,Market capitalization change.[7],FALSE,SP500
+2-Sep-15,HSP,Hospira taken over[96],FALSE,SP500
+2-Nov-15,HCBK,HPQ spins off HPE[93],FALSE,SP500
+26-Feb-10,RX,Taken private[181],FALSE,SP500
+1-Jul-15,TEG,Integris taken over.[102],FALSE,SP500
+20-Jun-14,IGT,Market capitalization changes[119],FALSE,SP500
+31-Oct-11,ITT,Spun off from ITT Corp.[163],FALSE,SP500
+2-Dec-13,JCP,Allegion spun off by Ingersoll Rand[128],FALSE,SP500
+5-Nov-14,JBL,Market cap changes[113],FALSE,SP500
+18-Nov-11,JNS,Janus Capital Group's market capitalization is less than $1.2 billion,FALSE,SP500
+23-Dec-13,JDSU,Market capitalization changes,FALSE,SP500
+26-Sep-19,JEF,JEF spun off SPB.[17],FALSE,SP500
+6-Sep-16,JCI,TYC acquires JCI (and becomes new JCI).[67],FALSE,SP500
+3-Mar-09,JNY,Capitalization rebalance.,FALSE,SP500
+7-Oct-15,JOY,Market capitalization change.[94],FALSE,SP500
+7-Mar-16,GMCR,JAB Holding Company acquired Keurig Green Mountain[81],FALSE,SP500
+24-Aug-07,KSE,Acquired byæNational Grid plc[194],FALSE,SP500
+17-Dec-10,KG,Acquired by Pfizer Inc. (PFE).[174],FALSE,SP500
+6-Jul-15,KRFT,Kraft merger with Heinz.[100],FALSE,SP500
+1-Jul-19,LLL,L3 purchased by Harris Corporation[21],FALSE,SP500
+7-Dec-99,LDW,Market Cap change.[202],FALSE,SP500
+2-Dec-16,LM,Market capitalization changes,FALSE,SP500
+16-Sep-08,LEH,Lehman Brothers bankruptcy.[186],FALSE,SP500
+13-Oct-17,LVLT,CenturyLink Incæacquired LVLT.[47],FALSE,SP500
+1-Oct-12,LXK,Tyco spun off ADT[147],FALSE,SP500
+24-Jan-14,LIFE,Life Technologies acquired by Thermo Fisher Scientific Inc[125],FALSE,SP500
+13-Mar-17,LLTC,S&P 500 constituent Analog Devices Inc. (NASD:ADI) acquired Linear Technology.[60],FALSE,SP500
+11-Jun-15,LO,Lorillard Inc. gets acquired.[104],FALSE,SP500
+8-May-14,LSI,Avago acquires LSI[120],FALSE,SP500
+23-Dec-19,MAC,Market capitalization change.[12],FALSE,SP500
+6-Apr-20,M,Market capitalization change.[9],FALSE,SP500
+26-Jul-17,MNK,Market capitalization changes.,FALSE,SP500
+5-Jul-11,MI,Marshall & Iisley is being bought by Bank of Montreal[166],FALSE,SP500
+1-Jun-11,MEE,Alpha Natural Resources is acquiring Massey Energy in a deal expected to be,FALSE,SP500
+7-Jun-19,MAT,Bemis merged with Amcor; subsequently renamed toæAmcor plc[22],FALSE,SP500
+27-Sep-07,MXIM,MXIM delisted from NASDAQ exchange.[193],FALSE,SP500
+28-Feb-11,MFE,Acquired by Intel Corp. (INTC)[172],FALSE,SP500
+19-Jun-17,MJN,Reckitt BenckiseræGroup plc acquired Mead Johnson Nutrition.[53],FALSE,SP500
+3-Apr-12,MHS,Acquired by Express Scripts (ESRX)[156],FALSE,SP500
+16-Dec-11,WFR,Market capitalization changes,FALSE,SP500
+30-Apr-13,PCS,A majority of MetroPCS was acquired by T-Mobile[139],FALSE,SP500
+14-Jul-10,MIL,Acquired by Merck KGaA (MKGAY)[177],FALSE,SP500
+10-Dec-13,MOLX,MOLX acquired byæKoch Industries.[127],FALSE,SP500
+7-Jun-18,MON,Bayeræacquired Monsanto.[40],FALSE,SP500
+16-Dec-11,MWW,Market capitalization changes,FALSE,SP500
+21-May-12,MMI,Acquired by Google (GOOG)[153],FALSE,SP500
+26-Jul-17,MUR,Market capitalization changes.,FALSE,SP500
+23-Mar-15,NBR,Market Capitalization Changes.,FALSE,SP500
+23-Sep-11,NSM,Acquired byæTexas Instrumentsæ(TXN).[165],FALSE,SP500
+5-Jun-18,NAVI,Westar Energy (NYSE: WR) acquired Great Plains Energy (NYSE: GXP) and changed name to Evergy.[41],FALSE,SP500
+1-Oct-07,NCR,Teradata spun off by NCR Corp.[193],FALSE,SP500
+3-Oct-19,NKTR,Market Cap changes[16],FALSE,SP500
+15-Feb-19,NFX,ECA acquired NFX[26],FALSE,SP500
+12-Dec-11,GAS,"Nicor acquired by AGL, which retained the GAS ticker.[161]",FALSE,SP500
+20-Jul-15,NE,PayPal Spun off by eBay[98],FALSE,SP500
+22-Jun-20,JWN,Market capitalization change.[6],FALSE,SP500
+27-Apr-11,NOVL,Acquired by private equity firms.[169],FALSE,SP500
+5-Jun-12,NVLS,Acquired by Lam Research (LRCX)[152],FALSE,SP500
+13-Nov-13,NYX,ICE Exchange acquired NYSE Euronext[129],FALSE,SP500
+17-Dec-10,ODP,Market Cap changes.,FALSE,SP500
+2-Dec-16,OI,Market capitalization changes[63],FALSE,SP500
+5-Dec-00,OI,Market Cap changes.,FALSE,SP500
+17-Nov-10,PTV,Reynolds Group Holding Ltd. acquired Pactiv.[175],FALSE,SP500
+28-Aug-15,PLL,Pall taken over[96],FALSE,SP500
+19-Mar-18,PDCO,Market capitalization changes.,FALSE,SP500
+20-Sep-14,BTU,Market cap changes[114],FALSE,SP500
+30-Mar-16,POM,Exelon Corp acquired Pepco[80],FALSE,SP500
+12-Mar-15,PETM,PetSmart acquired by private equity consortium[109],FALSE,SP500
+18-Jan-19,PCG,PCG filed for bankruptcy[27],FALSE,SP500
+1-Mar-17,PBI,CBOE acquires BATS[61],FALSE,SP500
+22-Feb-16,PCL,PCL taken over by WY[83],FALSE,SP500
+1-Feb-16,PCP,CFG replaces PCP[84],FALSE,SP500
+2-Jul-12,PGN,Acquired by Duke Energy (DUK)[150],FALSE,SP500
+1-Jul-15,QEP,Baxalta spun off by Baxter.[103],FALSE,SP500
+30-Jun-10,STR,"Company split. QEP retained, but ticker changed.[178]",FALSE,SP500
+25-Sep-03,QTRN,Taken private[199],FALSE,SP500
+31-Mar-11,Q,Acquired by CenturyLink[171],FALSE,SP500
+11-Dec-12,RRD,Market capitalization changes[143],FALSE,SP500
+30-Jun-11,RSH,Market capitalization adjustments.[167],FALSE,SP500
+18-Jun-18,RRC,Capitalization rebalance.[39],FALSE,SP500
+6-Apr-20,RTN,United Technologies spun off Otis and Carrier and acquired Raytheon Company.[9],FALSE,SP500
+15-Jul-19,RHT,S&P 500 & 100 constituentæIBMæacquired Red Hat.[20],FALSE,SP500
+26-Jul-17,RAI,British American Tobaccoæplc (NYSE MKT:BTI) acquired Reynolds American.[51],FALSE,SP500
+27-Jul-00,RAD,Market Cap change.[201],FALSE,SP500
+3-Dec-18,COL,UTX acquired COL[30],FALSE,SP500
+18-Aug-14,RDC,Market cap changes[115],FALSE,SP500
+19-Jun-17,R,,FALSE,SP500
+30-Mar-07,TSG,Taken Private[195],FALSE,SP500
+27-Jan-15,SWY,Safeway acquired by private equity consortium[110],FALSE,SP500
+20-Sep-13,SAI,Market capitalization changes,FALSE,SP500
+13-May-16,SNDK,SNDK acquired by WDC[75],FALSE,SP500
+29-Jun-12,SLE,Split up of Sara Lee[151],FALSE,SP500
+2-Jan-19,SCG,Dominion Energy acquired SCANA Corporation[28],FALSE,SP500
+3-Nov-09,SGP,Acquired by Merck & Co. (MRK)[182],FALSE,SP500
+7-Mar-18,SNI,Discovery Communicationsæacquired SNI.[45],FALSE,SP500
+5-Sep-12,SHLD,SHLD below public float threshold[148],FALSE,SP500
+19-Nov-15,SIAL,Sigma-Aldrich acquired by Merck KGaA (MKGAY)[91],FALSE,SP500
+19-Mar-18,SIG,Market capitalization changes.[44],FALSE,SP500
+1-May-14,SLM,Navient Spun off from SLM[121],FALSE,SP500
+26-Aug-10,SII,Acquired by Schlumberger Ltd. (SLB)[176],FALSE,SP500
+2-Oct-07,SLR,Solectron acquired byæFlextronics.[193],FALSE,SP500
+4-Apr-17,SWN,"HPE spins off Everett Inc., merged with CSC to form DXC[56][57]",FALSE,SP500
+28-Feb-17,SE,SE acquired by ENB[61],FALSE,SP500
+8-Jul-13,S,Softbank consortium purchase results in public float below 50%[133],FALSE,SP500
+5-Jan-17,STJ,S&P 100 & 500 constituent Abbott Laboratories (NYSE:ABT) acquired St. Jude Medical.[62],FALSE,SP500
+18-Sep-17,SPLS,Sycamore Partnersæacquired Staples.[48],FALSE,SP500
+22-Sep-16,HOT,MAR acquires HOT[65],FALSE,SP500
+3-Dec-18,SRCL,Market Capitalization change[30],FALSE,SP500
+10-Oct-12,SUN,Acquired by Energy Transfer Partners (ETP)[145],FALSE,SP500
+9-Dec-19,STI,BB&T acquired SunTrust to formæTruist Financial.[13],FALSE,SP500
+23-Apr-12,SVU,ConocoPhillips spun off Phillips 66[155],FALSE,SP500
+10-Jan-07,SBL,Acquired by Motorola[196],FALSE,SP500
+1-Jul-16,TE,TE acquired by EMA[68],FALSE,SP500
+2-Jun-17,TGNA,TGNA spins offæCars.com[54],FALSE,SP500
+20-Dec-11,TLAB,Expedia Inc. spun off TripAdvisor Inc.[159],FALSE,SP500
+18-Apr-16,THC,Ulta replaces Tenet[78],FALSE,SP500
+19-Jun-17,TDC,Market capitalization changes.[52],FALSE,SP500
+23-Dec-13,TER,Market capitalization changes,FALSE,SP500
+27-Feb-19,GT,WAB acquired GE transportation business[25],FALSE,SP500
+17-Dec-10,NYT,Market Cap changes.,FALSE,SP500
+20-Jun-18,TWX,AT&T acquired Time Warner.[38],FALSE,SP500
+18-May-16,TWC,TWC acquired by CHTR[74],FALSE,SP500
+21-Dec-12,TIE,TIE acquired by Precision Cast Parts (PCP)[142],FALSE,SP500
+26-Jul-17,RIG,Market capitalization changes.[51],FALSE,SP500
+20-Dec-07,TRB,Taken private[190],FALSE,SP500
+23-Dec-19,TRIP,Market capitalization change.[12],FALSE,SP500
+23-Sep-19,TSS,S&P 500 constituent Global Payments Inc. (NYSE: GPN) acquired TSS.[18],FALSE,SP500
+2-Jul-14,X,Market capitalization changes[117],FALSE,SP500
+20-Mar-17,URBN,Market capitalization changes.[58],FALSE,SP500
+5-Dec-19,VIAB,CBS acquired Viacom to formæViacomCBS.[14],FALSE,SP500
+5-Dec-00,GRA,Market Cap changes.,FALSE,SP500
+31-Dec-08,WB,Wachovia Bank acquired by Wells Fargo.[185],FALSE,SP500
+28-Jan-20,WCG,S&P 500 constituent Centene Corp. (NYSE: CNC) acquired Wellcare Health Plans.[11],FALSE,SP500
+29-Aug-17,WFM,Amazon.com Inc. acquired Whole Foods Market.[49],FALSE,SP500
+7-Apr-15,WIN,Market capitalization change.[105],FALSE,SP500
+21-Mar-14,WPX,Market capitalization changes[124],FALSE,SP500
+31-May-18,WYN,Wyndham Worldwide spun off Wyndham Hotels & Resorts Inc. (NYSE:WH).[42],FALSE,SP500
+14-Sep-18,XL,XL acquired byæAXA.[35],FALSE,SP500
+28-Jun-10,XTO,Acquired by ExxonMobil Inc. (XOM)[179],FALSE,SP500
+19-Jun-17,YHOO,VZ acquired YHOO operations; remainder of YHOO converted to closed-end company known asæAltaba.[52],FALSE,SP500
