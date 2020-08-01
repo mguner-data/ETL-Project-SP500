@@ -5,9 +5,10 @@ __pycache__/
 
 #ignore specific files
 all_stocks_5yr.csv
-api_keys.py
 Alpha_Vantage_Export.csv
+Alpha_Vantage_Export_Extra_Tickers.csv
 secret.py
+api_keys.py
 
 # C extensions
 *.so
